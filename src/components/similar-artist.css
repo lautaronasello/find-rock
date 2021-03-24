@@ -1,0 +1,16 @@
+.centrar {
+  text-align: center !important;
+}
+
+.top50 {
+  margin-top: 50px;
+}
+
+.margin50 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.inline-block {
+  display: inline-block;
+}
